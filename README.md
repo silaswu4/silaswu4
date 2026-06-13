@@ -4,7 +4,7 @@ creator · ai agents, frontend, design · 4x hackathon winner · information sys
 
 ---
 
-## what i've made
+## what i've shipped
 
 **[bro](https://github.com/MatthewKim323/bro)** · 3x winner @ DesignVerse
 personal ai memory graph. an assistant that remembers your conversations and grows a live knowledge graph of the people, projects, and places in them. chat, voice, and simulated solana trading in one interface.

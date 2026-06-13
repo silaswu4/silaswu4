@@ -1,6 +1,6 @@
 # silas wu
 
-builder · ai agents, frontend, design · 4x hackathon winner · information systems @ uc riverside
+creator · ai agents, frontend, design · 4x hackathon winner · information systems @ uc riverside
 
 ---
 

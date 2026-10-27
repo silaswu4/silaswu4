@@ -1,6 +1,6 @@
-# silas wu
+# hi
 
-7x hackathon winner · information systems @ uc riverside
+im a 7x hackathon winner studying information systems @ uc riverside
 
 ---
 

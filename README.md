@@ -2,7 +2,7 @@
 
 im a 7x hackathon winner studying information systems @ uc riverside
 
-currently building the future of AI music provenance at Sound Ethics...
+currently building and designing the future!
 
 ---
 

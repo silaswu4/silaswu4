@@ -1,4 +1,4 @@
-# hi
+# hi, im silas
 
 im a 7x hackathon winner studying information systems @ uc riverside
 

@@ -2,7 +2,7 @@
 
 im a 7x hackathon winner studying information systems @ uc riverside
 
-let's build and design the future!!
+building the future with ai...
 
 ---
 

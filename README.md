@@ -2,7 +2,7 @@
 
 im a 7x hackathon winner studying information systems @ uc riverside
 
-building and designing the future!!
+working with others to build and design the future!!
 
 ---
 

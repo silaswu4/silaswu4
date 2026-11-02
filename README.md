@@ -1,8 +1,8 @@
 # hi, im silas
 
-im a 7x hackathon winner studying information systems @ uc riverside
+im studying business information systems @ uc riverside
 
-building the future with ai...
+catch me at a hackathon or at a rams game...
 
 ---
 
